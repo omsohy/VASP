@@ -1,3 +1,6 @@
+#In directory, you should have Subdirectory 3_dos which has DOSCAR and POSCAR
+#This code will make each ions' DOS in 'figures' directory
+
 from ast import Is
 from pickle import TRUE
 import numpy as np
